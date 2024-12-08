@@ -9,8 +9,11 @@ precise journey tracking and logging, predictive maintenance, tailored vehicle a
 
 Components
 1.Accurate Vehicle Travel Tracking Using IoT Technology - Nafeel S.M
+
 2.Predictive Maintenance Through Real-Time Sensor Data - Shukri H.M
+
 3.Neural Network-Based Chatbot for Personalized Vehicle Advice - Ahlan M.I
+
 4.Automobile Parts Recommendations Using Customer Reviews - Nanayakkara G.P.D.P
 
 System owerall diagram 
