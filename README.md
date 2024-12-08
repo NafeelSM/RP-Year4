@@ -16,7 +16,7 @@ Components
 
 4.Automobile Parts Recommendations Using Customer Reviews - Nanayakkara G.P.D.P
 
-System owerall diagram 
+Overall System Diagram
 ![image](https://github.com/user-attachments/assets/177ef898-939a-4841-be06-72560ce772b3)
 
 
